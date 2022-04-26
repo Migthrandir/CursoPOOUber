@@ -1,5 +1,5 @@
 <?php
-class Route{
+class Route {
     public $id;
     public $init = array();
     public $end = array();
